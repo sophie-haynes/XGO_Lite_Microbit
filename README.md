@@ -1,6 +1,6 @@
 # XGO_Lite_Microbit
 This repository contains a easy to run program for the XGO lite with microbit. 
-Link to the MakeCode can be found here: [https://makecode.microbit.org/_5JgXgDeyEgYd]
+Link to the MakeCode can be found here: [[https://makecode.microbit.org/_5JgXgDeyEgYd]](https://makecode.microbit.org/_R82P8iH1k2cJ)
 
 # Running the Code
 With the microbit connected, drag the `InteractiveDog.hex` file onto the microbit. This will only take a few seconds. 
